@@ -1,112 +1,113 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Tyler Turnipseed",
+        "label": "Full Stack Developer",
+        "picture": "https://pbs.twimg.com/profile_images/1064712625181941760/_HnZ1YV2_400x400.jpg",
+        "email": "tyler@techturnip.us",
+        "phone": "(270) 777-5591",
+        "website": "http://techturnip.us",
+        "summary": "I love JavaScript...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "address": "6287 Barberry Dr",
+            "postalCode": "IN 46123",
+            "city": "Avon",
             "countryCode": "US",
-            "region": "California"
+            "region": "Indiana"
         },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
-            }
-        ]
+        "profiles": [{
+            "network": "Twitter",
+            "username": "tylertechseed",
+            "url": "https://twitter.com/tylertechseed"
+        }, {
+            "network": "GitHub",
+            "username": "techturnip",
+            "url": "https://github.com/techturnip"
+        }]
     },
-    "work": [
-        {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+    "work": [{
+            "name": "Jay's, LLC",
+            "position": "Freelance Web Developer",
+            "website": "http://jaysllc.com/index.html",
+            "startDate": "2019-06-01",
+            "summary": "Hired for the design and development of company marketing website using Bootstrap 4.3.1, Sass, and the ekko-lightbox Bootstrap lightbox module.",
+            "location": "Indianapolis, Indiana",
+            "highlights": []
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Starlight Birth",
+            "position": "Freelance Web Developer",
+            "website": "https://www.starlightbirthservices.com/",
+            "startDate": "2018-10-01",
+            "summary": "Offered web consultant services and client education with regards to WordPress premium theme implementation and usage. Including responsibility for the current project to replace the theme with a React implementation that interfaces with the WordPress Rest API.",
+            "location": "Bowling Green, Kentucky",
+            "highlights": []
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Terracon",
+            "position": "Materials Testing Technician",
+            "website": "https://terracon.com",
+            "summary": "Managed small operations within a project. Trained less experienced technicians. Built professional and trusted client relationships.",
+            "location": "Indianapolis, Indiana",
+            "highlights": ["Multiple performance raises in under a year."]
         }
     ],
-    "volunteer": [
-        {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
-        }
-    ],
-    "education": [
-        {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+    "education": [{
+            "institution": "Lambda School",
+            "area": "Full Stack Web Development",
+            "studyType": "Career Endorsement",
+            "startDate": "2019-03-18",
+            "endDate": "2020-06-28",
+            "gpa": "",
+            "courses": []
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
+            "institution": "Udemy",
+            "area": "Web Development",
             "studyType": "",
-            "startDate": "2011-01-01",
+            "startDate": "",
             "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "gpa": "",
+            "courses": []
         }
     ],
-    "awards": [
+    "skills": [{
+            "name": "React",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["Redux", "MaterialUI", "Javascript"]
+        },
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
-    "skills": [
-        {
-            "name": "Reactaaa",
+            "name": "HTML5",
             "level": "Master",
             "value": 100,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Angular",
+            "name": "CSS3",
+            "level": "Master",
+            "value": 90,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Less/Sass",
+            "level": "Master",
+            "value": 80,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Bootstrap",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "MaterializeCSS",
+            "level": "Master",
+            "value": 90,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "MaterialUI",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
@@ -114,86 +115,145 @@
         {
             "name": "NodeJS",
             "level": "Master",
-            "value": 40,
+            "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Express",
+            "level": "Master",
+            "value": 70,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Knex",
             "level": "Master",
             "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Gmail",
+            "name": "SQL",
             "level": "Master",
-            "value": 20,
+            "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "K8S",
+            "name": "Agile",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Git",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Linux",
+            "level": "Master",
+            "value": 65,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "JEST",
+            "level": "Master",
+            "value": 30,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "REST API",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "SDLC",
+            "level": "Master",
+            "value": 40,
+            "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
-    "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" }
-    ],
-    "interests": [
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+    "languages": [{
+        "language": "English",
+        "value": 100,
+        "fluency": "Native speaker"
+    }],
+    "interests": [{
+            "name": "Guitar",
+            "gifUrl": "https://media.giphy.com/media/b90CEbfxbUlLW/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Anime",
+            "gifUrl": "https://media.giphy.com/media/J6JazAkCVLId91L4yM/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Motorcycles",
+            "gifUrl": "https://media.giphy.com/media/3o8doTsfXIV3ZTHA76/giphy.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+            "name": "Hunting & Fishing",
+            "gifUrl": "https://media.giphy.com/media/yT6euiWptBPG/giphy.gif"
         },
         {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Light Gaming",
+            "gifUrl": "https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
-    "projects": [
+    "references": [{
+        "name": "Jane Doe",
+        "reference": "Reference..."
+    }],
+    "projects": [{
+            "name": "Property Manager",
+            "description": "Application that serves landlords as a multi-faceted tool for managing their properties.\nI led the front-end development team for the first two releases, including repository management, code reviews, and stand-up meetings to facilitate interaction with the back-end developers for API development and integration.\nI helped drive the project forward to meet deadlines for feature releases.\nTech Stack:\nReact / Redux / MaterialUI / NodeJS / Express / Firebase",
+            "images": [],
+            "link": "https://github.com/Lambda-School-Labs/property-manager-fe"
+        },
         {
-            "name": "Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
+            "name": "Expat Journal (Front End)",
+            "description": "Expat Journal is a targeted CRUD application that allows expatriates a platform from which they can share their adventures around the globe.\nI was the sole front end developer on this project, I built this project with React, Reduc, MaterializeCSS/React Materialize and Sass working with the back end developer to achieve a cohesive full stack application with a UI that is both clean and intuitive.",
+            "images": [],
+            "link": "https://github.com/expat-journal-lambda-school/expat-journal-frontend"
+        },
+        {
+            "name": "Expat Journal (Back End)",
+            "description": "I was the back end developer on this project, I built the back end with NodeJS, Express, Knex, PostgreSQL and Jest for testing. I wrote tests for every route and model for this project. The API was developed closely with the front end development team to shape the API to their needs as well as provide assistance on how to integrate the API on the front end.",
+            "images": [],
+            "link": "https://github.com/techturnip/Back-End"
+        },
+        {
+            "name": "Vue-Monster-Fight",
+            "description": "This was a personal project developed with VueJS in an exercise to learn a new framework. It is a simple game using Vue to handle all the fighting mechanics and UI interaction. I had a lot of fun with this project.",
+            "images": [],
+            "link": "https://github.com/techturnip/Vue-Monster-Fight"
         }
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
+            "visaSponsorship": false,
             "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
         },
         "dreamJob": {
-            "locations": [
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Valenciennes, France" }
-            ],
+            "locations": [{
+                "name": "Indianapolis, IN"
+            }],
             "remoteFrequency": "regularly"
         },
         "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "issues": {
+                "boring_management": true,
+                "boring_team": true
+            }
         },
-        "education": { "studiesLevel": 5 },
+        "education": {
+            "studiesLevel": 4
+        },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "codingYears": 8,
+            "codingReason": "I started coding with HTML and CSS over 15 years ago, I've been hooked ever since.",
             "searchState": "activelySearching",
-            "experienceYears": 9
+            "experienceYears": 2
         },
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
@@ -248,17 +308,46 @@
                 }
             }
         },
-        "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+        "cardsOrder": [{
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            }
         ]
     }
 }
