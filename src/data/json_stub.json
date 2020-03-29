@@ -2,11 +2,11 @@
     "basics": {
         "name": "Tyler Turnipseed",
         "label": "Full Stack Developer",
-        "picture": "https://pbs.twimg.com/profile_images/1064712625181941760/_HnZ1YV2_400x400.jpg",
+        "picture": "https://pbs.twimg.com/profile_images/1686118155/268463_732785565163_47209289_36514393_2229437_n_400x400.jpg",
         "email": "tyler@techturnip.us",
         "phone": "(270) 777-5591",
         "website": "http://techturnip.us",
-        "summary": "I love JavaScript...",
+        "summary": "Full Stack Web Developer",
         "location": {
             "address": "6287 Barberry Dr",
             "postalCode": "IN 46123",
@@ -46,6 +46,7 @@
             "name": "Terracon",
             "position": "Materials Testing Technician",
             "website": "https://terracon.com",
+            "startDate": "2017-07-18",
             "summary": "Managed small operations within a project. Trained less experienced technicians. Built professional and trusted client relationships.",
             "location": "Indianapolis, Indiana",
             "highlights": ["Multiple performance raises in under a year."]
@@ -75,6 +76,18 @@
             "level": "Master",
             "value": 80,
             "keywords": ["Redux", "MaterialUI", "Javascript"]
+        },
+        {
+            "name": "NodeJS",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Javascript",
+            "level": "Master",
+            "value": 70,
+            "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
             "name": "HTML5",
@@ -110,12 +123,6 @@
             "name": "MaterialUI",
             "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 60,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
@@ -171,6 +178,12 @@
             "level": "Master",
             "value": 40,
             "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Python",
+            "level": "Master",
+            "value": 50,
+            "keywords": ["HTML", "CSS", "Javascript"]
         }
     ],
     "languages": [{
@@ -180,7 +193,7 @@
     }],
     "interests": [{
             "name": "Guitar",
-            "gifUrl": "https://media.giphy.com/media/b90CEbfxbUlLW/giphy.gif"
+            "gifUrl": "https://media.giphy.com/media/EA4ZexjGOnfP2/giphy.gif"
         },
         {
             "name": "Anime",
@@ -211,7 +224,7 @@
         },
         {
             "name": "Expat Journal (Front End)",
-            "description": "Expat Journal is a targeted CRUD application that allows expatriates a platform from which they can share their adventures around the globe.\nI was the sole front end developer on this project, I built this project with React, Reduc, MaterializeCSS/React Materialize and Sass working with the back end developer to achieve a cohesive full stack application with a UI that is both clean and intuitive.",
+            "description": "Expat Journal is a targeted CRUD application that allows expatriates a platform from which they can share their adventures around the globe.\nI was the sole front end developer on this project, I built this project with React, Redux, MaterializeCSS/React Materialize and Sass working with the back end developer to achieve a cohesive full stack application with a UI that is both clean and intuitive.",
             "images": [],
             "link": "https://github.com/expat-journal-lambda-school/expat-journal-frontend"
         },
@@ -237,12 +250,19 @@
             "locations": [{
                 "name": "Indianapolis, IN"
             }],
-            "remoteFrequency": "regularly"
+            "remoteFrequency": "regularly",
+            "perks": {
+                "challenge": true,
+                "work_hours": true,
+                "mood": true,
+                "salary": true,
+                "training": true
+            }
         },
         "currentJob": {
             "issues": {
-                "boring_management": true,
-                "boring_team": true
+                "no_challenge": true,
+                "no_tech": true
             }
         },
         "education": {
@@ -258,7 +278,7 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Building dynamic web applications with React or Vue, NodeJS and Express"
     },
     "customization": {
         "imageHeader": {
